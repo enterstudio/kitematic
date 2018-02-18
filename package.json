@@ -21,7 +21,9 @@
   },
   "license": "Apache-2.0",
   "electron-version": "0.35.4",
-  "engines" : { "node" : "4.1.1" },
+  "engines": {
+    "node": "4.1.1"
+  },
   "dependencies": {
     "alt": "^0.16.2",
     "ansi-to-html": "0.3.0",
@@ -52,7 +54,7 @@
     "request-progress": "^0.3.1",
     "rimraf": "^2.3.2",
     "underscore": "^1.8.3",
-    "validator": "^4.1.0",
+    "validator": "^9.4.1",
     "which": "^1.2.4"
   },
   "devDependencies": {
